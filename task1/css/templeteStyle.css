@@ -136,3 +136,10 @@ color:#666666;
     border-bottom:1px dotted #EF6480;
     text-decoration: none;
 }
+
+@media only screen and (max-width: 768px){
+
+.cards{
+    width:100%;
+}
+}
